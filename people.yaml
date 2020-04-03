@@ -1,0 +1,32 @@
+-Abdel:
+  name : Abdel Oummou
+  job : DeVops
+  salary:
+    -scrum
+    -active
+    -linux
+    -github
+   - team menbers:
+      -aman:
+        name: aman ninja
+        job : DeVops
+        salary:
+        skills:
+          -scrum
+          -active
+          -linux
+          -github
+      -martin:
+        -name : martin Salamea
+        -job : DeVops Ninja
+        -salary:
+          -scrum
+          -active
+          -linux
+          -github
+          - team menbers
+
+      
+    
+
+-martin : 
