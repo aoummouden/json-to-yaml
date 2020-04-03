@@ -1,32 +1,33 @@
 -Abdel:
   name : Abdel Oummou
   job : DeVops
-  salary:
+  salary: 150k
+  skills:
     -scrum
     -active
     -linux
     -github
-   - team menbers:
+  team menbers:
       -aman:
         name: aman ninja
         job : DeVops
-        salary:
+        salary: 160k
         skills:
           -scrum
           -active
           -linux
           -github
       -martin:
-        -name : martin Salamea
-        -job : DeVops Ninja
-        -salary:
+        name : martin Salamea
+        job : DeVops Ninja
+        salary:
+        skills:  
           -scrum
           -active
           -linux
           -github
-          - team menbers
+         
 
       
     
 
--martin : 
